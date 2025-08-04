@@ -14,7 +14,7 @@
         "enabled": true,
         "upgrade": false,
         "downgrade": true,
-        "any": true,
+        "any": false,
         "minSendItems": 3,
         "maxSendItems": 4,
         "minReceiveItems": 2,
